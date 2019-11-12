@@ -1,7 +1,7 @@
 let pizza = {
   toppings: ["cheese", "sauce", "pepperoni"],
   crust: 'deep dish',
-  sserves: 2
+  serves: 2
 }
 
-console.log()
+console.log(pizza)
